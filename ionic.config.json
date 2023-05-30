@@ -1,0 +1,7 @@
+{
+  "name": "tkyt-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
